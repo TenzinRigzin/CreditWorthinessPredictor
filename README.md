@@ -87,3 +87,21 @@ Categorical features are encoded using **One-Hot Encoding**, and numerical featu
 ---
 
 ## Project Structure
+
+Credit_Scoring_Project/
+│
+├── CreditScoring_Starter_Notebook.ipynb
+├── sample_credit_dataset.csv
+├── models/
+│ └── credit_scoring_rf_pipeline.joblib
+├── README.md
+└── requirements.txt
+
+---
+
+## Required Python Libraries (Install Before Running)
+Install the following libraries **before executing the notebook**:
+
+bash:
+>>>pip install numpy pandas matplotlib scikit-learn joblib
+
